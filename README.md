@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Sneha 👋
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehh&show_icons=true&theme=vue" alt="GitHubStats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehh&theme=vue&hide=jupyter%20notebook&layout=compact" alt="LangStats" />
+</p>
 
 <!--
 **snehh/snehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
